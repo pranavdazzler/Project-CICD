@@ -1,7 +1,7 @@
 
 ## Author
 
-- [@octokatherine](https://www.github.com/pranavdazzler)
+- [@pranavdazzler](https://www.github.com/pranavdazzler)
 
 
 # Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
